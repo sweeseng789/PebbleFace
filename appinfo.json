@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sweeseng123@gmail.com",
+    "longName": "Watch Face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Watch Face",
+    "uuid": "255b3098-5229-4e87-baa9-2f6f7bd687f8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
